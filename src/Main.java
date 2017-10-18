@@ -32,5 +32,6 @@ public class Main {
         bw.close();
         System.out.println("Read file complete!");
         System.out.println("Write file complete!");
+	System.out.println("Yo! Test here");
     }
 }
